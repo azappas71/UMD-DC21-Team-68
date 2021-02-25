@@ -1,4 +1,4 @@
-# umddc21
+# Abstract
 Within the framework of the World Health Organization’s Quality of Life assessment, public
 transit has the potential to impact an individual’s quality of life across several domains, including
 their level of independence and environment. The University of Maryland’s Department of
