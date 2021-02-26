@@ -7,7 +7,7 @@ commuter students by furthering their understanding of VeoRide usage on and arou
 We hope the insights from our project will help DOTS improve collective well-being. We
 investigated the differences in Veoride e-scooter and e-bike traffic between October 2019 and
 October 2020 by evaluating changes in the most popular origins and destinations and average
-ride length. To investigate we used Microsoft Excel, Tableau, and ArcGIS. We learned that, in
+ride length. To investigate we used Microsoft Excel, Tableau, and ArcGIS. In
 2019, we noticed that VeoRide origins and destinations were concentrated more closely around
 academic buildings compared to commercial areas. In 2020, we noticed the average ride length
 was minimally shorter, and the popular origins and destinations were diffused across campus.
