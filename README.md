@@ -1,4 +1,6 @@
-VeoRide E-Scooters Have 
+Using VeoRide traffic data to visualize the changing needs of the University of Maryland Community 
+
+
 Access to public transit has positive effects on several domains in World Health Organization’s Quality of Life assessment, including
 level of independence and opportunities for recreation. The University of Maryland’s Department of
 Transportation (DOTS) is uniquely positioned to improve the quality of life of residential and
